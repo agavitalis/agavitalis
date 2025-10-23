@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vitalis Ogbonna
 
-### Senior Software & DevOps Engineer | MSc Cybersecurity | System Design Advocate
+### Senior Software & DevOps Engineer | MSc Cybersecurity | System Design Expert
 
 ---
 
